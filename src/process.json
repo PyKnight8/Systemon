@@ -1,0 +1,10 @@
+{
+    "processes": [
+        "process_exe1",
+        "process_exe2"
+    ],
+    "paths": [
+        "C:\\SamplePath\\to\\process_exe1",
+        "C:\\SamplePath\\to\\process_exe2"
+    ]
+}
